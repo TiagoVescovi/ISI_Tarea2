@@ -1,8 +1,0 @@
-# 🤖 Uso de Inteligencia Artificial (Política Obligatoria)
-
-Si el grupo decide utilizar herramientas de IA (Copilot, ChatGPT, Claude, Cursor, etc.), **debe cumplir con los siguientes requisitos**:
-
-### 1. Registro de Prompts
-Todos los prompts utilizados deben almacenarse en la carpeta `prompts/` del repositorio.
-- Formato sugerido: `01-description.txt` o `01-description.md`
-- Deben incluir: fecha, herramienta utilizada y el texto exacto del prompt.

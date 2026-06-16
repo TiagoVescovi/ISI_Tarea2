@@ -1,5 +1,9 @@
 # Carpeta `references/`
 
-Referencias bibliográficas, PDFs permitidos por la cátedra, enlaces normativos o guías (NIST, OWASP, etc.) **citadas en el trabajo**.
+Referencias bibliográficas, normativas y guías citadas en el trabajo del **Escenario 11**.
 
-Incluir aquí listados o notas de referencia cuando comience la redacción con escenario definido; evitar inventar fuentes o casos.
+## Lista maestra
+
+El listado estructurado (con enlaces de consulta donde aplique) está en [`bibliografia.md`](bibliografia.md).
+
+No citar en el cuerpo del análisis fuentes que no estén respaldadas en los documentos finales.

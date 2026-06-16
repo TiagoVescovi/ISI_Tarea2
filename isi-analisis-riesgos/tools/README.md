@@ -1,5 +1,7 @@
 # Carpeta `tools/`
 
-Scripts, notebooks o pequeñas utilidades de apoyo (por ejemplo generación de tablas o validaciones) **si** el trabajo lo necesita.
+Scripts, notebooks o utilidades opcionales que apoyen el trabajo (por ejemplo, formateo de tablas o extracción de texto de fuentes permitidas).
 
-Sin escenario definido no se incluyen herramientas específicas; agregar solo lo justificado por el caso y la consigna.
+**Estado:** sin herramientas obligatorias en la fase de preparación.
+
+TODO: Completar durante la fase de análisis — solo si la consigna o el método lo justifican.

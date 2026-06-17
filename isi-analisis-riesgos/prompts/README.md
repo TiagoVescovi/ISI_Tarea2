@@ -33,4 +33,8 @@ Las **fechas y horas** coinciden con las registradas dentro de cada archivo (cam
 | `09-prompt-mapa-attack.md` | **2026-06-17 21:00 (UTC-3).** **Propuesta** de mapeo ATT&CK de amenazas DREAD hacia `docs/05-mapa-attack.md`; análisis previo sin redactar el entregable. |
 | `10-prompt-plan-mitigacion.md` | **2026-06-17 20:00 (UTC-3).** **Propuesta** de plan de mitigación para `docs/06-plan-mitigacion.md`; análisis previo sin redactar el entregable. |
 | `11-prompt-mapa-attack-redaccion.md` | **2026-06-17 22:30 (UTC-3).** Redacción de `docs/05-mapa-attack.md` (mapeo ATT&CK de 16 amenazas DREAD; verificación de técnicas en `MITRE_ATTCK` §3). |
+| `12-prompt-plan-mitigacion-analisis-previo.md` | **2026-06-17 23:00 (UTC-3).** **Análisis previo** de `docs/06-plan-mitigacion.md` (16 amenazas, controles, estructura); sin redactar el entregable. |
+| `13-prompt-plan-mitigacion-redaccion.md` | **2026-06-17 23:45 (UTC-3).** Redacción de `docs/06-plan-mitigacion.md` tras confirmación D1–D6. |
+| `14-prompt-riesgos-residuales-analisis-previo.md` | **2026-06-18 09:00 (UTC-3).** **Análisis previo** de `docs/07-riesgos-residuales.md` (16 amenazas, residual cualitativo); sin redactar el entregable. |
+| `15-prompt-riesgos-residuales-redaccion.md` | **2026-06-18 09:45 (UTC-3).** Redacción de `docs/07-riesgos-residuales.md` tras confirmación D1–D5. |
 | `README.md` | Esta guía |

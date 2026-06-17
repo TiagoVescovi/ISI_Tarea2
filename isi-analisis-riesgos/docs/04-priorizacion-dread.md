@@ -637,8 +637,8 @@ Se evaluaron **16** amenazas de **63** identificadas en [`03-analisis-stride.md`
 |-----------|----------|
 | [`03-analisis-stride.md`](03-analisis-stride.md) | Origen de los IDs `STR-*` evaluados. |
 | [`05-mapa-attack.md`](05-mapa-attack.md) | Mapeo ATT&CK de las 16 amenazas evaluadas (15 con técnica primaria; STR-C12-R sin equivalente ofensivo). |
-| [`06-plan-mitigacion.md`](06-plan-mitigacion.md) | **TODO:** tratamiento según nivel DREAD. |
-| [`07-riesgos-residuales.md`](07-riesgos-residuales.md) | **TODO:** riesgo tras mitigación. |
+| [`06-plan-mitigacion.md`](06-plan-mitigacion.md) | Tratamiento según nivel DREAD y técnicas ATT&CK (16 amenazas). |
+| [`07-riesgos-residuales.md`](07-riesgos-residuales.md) | Evaluación cualitativa del riesgo residual tras el plan de mitigación (16 amenazas). |
 
 ---
 

@@ -30,8 +30,8 @@ Realizar el trabajo académico de ISI sobre **análisis de riesgos** del escenar
 | `docs/03-analisis-stride.md` | Completado (63 IDs `STR-*`) |
 | `docs/04-priorizacion-dread.md` | Completado (16 amenazas evaluadas) |
 | `docs/05-mapa-attack.md` | Completado (16 amenazas; 15 mapeadas a ATT&CK) |
-| `docs/06-plan-mitigacion.md` | Pendiente |
-| `docs/07-riesgos-residuales.md` | Pendiente |
+| `docs/06-plan-mitigacion.md` | Completado (16 amenazas) |
+| `docs/07-riesgos-residuales.md` | Completado (16 amenazas; evaluación cualitativa residual) |
 | `diagrams/` | Pendiente |
 | `tools/` | Pendiente |
 
@@ -52,7 +52,10 @@ Registrar cada herramienta empleada. Los **prompts** (fecha y hora, herramienta,
 | 2026-06-17 20:00 | Cursor (asistente IA) | Propuesta plan de mitigación (`docs/06-plan-mitigacion.md`) — [`prompts/10-prompt-plan-mitigacion.md`](prompts/10-prompt-plan-mitigacion.md) |
 | 2026-06-17 21:00 | Cursor (asistente IA) | Propuesta mapa ATT&CK (`docs/05-mapa-attack.md`) — [`prompts/09-prompt-mapa-attack.md`](prompts/09-prompt-mapa-attack.md) |
 | 2026-06-17 22:30 | Cursor (asistente IA) | Mapa ATT&CK (`docs/05-mapa-attack.md`) — [`prompts/11-prompt-mapa-attack-redaccion.md`](prompts/11-prompt-mapa-attack-redaccion.md) |
-| <!-- TODO: próximos usos de IA --> | | |
+| 2026-06-17 23:00 | Cursor (asistente IA) | Análisis previo plan de mitigación (`docs/06-plan-mitigacion.md`) — [`prompts/12-prompt-plan-mitigacion-analisis-previo.md`](prompts/12-prompt-plan-mitigacion-analisis-previo.md) |
+| 2026-06-17 23:45 | Cursor (asistente IA) | Plan de mitigación (`docs/06-plan-mitigacion.md`) — [`prompts/13-prompt-plan-mitigacion-redaccion.md`](prompts/13-prompt-plan-mitigacion-redaccion.md) |
+| 2026-06-18 09:00 | Cursor (asistente IA) | Análisis previo riesgos residuales (`docs/07-riesgos-residuales.md`) — [`prompts/14-prompt-riesgos-residuales-analisis-previo.md`](prompts/14-prompt-riesgos-residuales-analisis-previo.md) |
+| 2026-06-18 09:45 | Cursor (asistente IA) | Riesgos residuales (`docs/07-riesgos-residuales.md`) — [`prompts/15-prompt-riesgos-residuales-redaccion.md`](prompts/15-prompt-riesgos-residuales-redaccion.md) |
 
 ## Estructura del repositorio
 

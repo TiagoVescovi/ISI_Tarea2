@@ -56,8 +56,8 @@
 ## Estado actual
 
 - **Escenario:** definido (11 — plataforma legal RAG/IA generativa).
-- **Completado:** inventario de activos, trust boundaries, análisis STRIDE (63 IDs), priorización DREAD (16 amenazas), mapa ATT&CK (`05-mapa-attack.md`).
-- **Pendiente:** plan de mitigación, riesgos residuales, diagramas y herramientas.
+- **Completado:** inventario de activos, trust boundaries, análisis STRIDE (63 IDs), priorización DREAD (16 amenazas), mapa ATT&CK (`05-mapa-attack.md`), plan de mitigación (`06-plan-mitigacion.md`), riesgos residuales (`07-riesgos-residuales.md`).
+- **Pendiente:** diagramas y herramientas.
 
 ## Archivos importantes
 
@@ -85,5 +85,4 @@
 
 ## TODO
 
-- [ ] Completar `docs/06-plan-mitigacion.md` y `docs/07-riesgos-residuales.md`.
 - [ ] Generar diagramas en `diagrams/` y artefactos en `tools/` según consigna.

@@ -2,7 +2,7 @@
 
 | Campo | Valor |
 |--------|--------|
-| **Fecha y hora** | 2026-06-16 14:45 (UTC-3) |
+| **Fecha y hora** | 2026-06-14 20:30 (UTC-3) |
 | **Herramienta** | Cursor (asistente IA en el IDE) |
 | **Entregable vinculado** | `docs/01-inventario-activos.md` |
 
@@ -36,4 +36,4 @@ Quiero obtener primero una lista sólida de activos para utilizar posteriormente
 
 ## Nota de trazabilidad
 
-La salida de la asistencia de IA se materializó en el repositorio en **`docs/01-inventario-activos.md`** (y actualización del estado de E01 en **`docs/00-indice-documentos.md`**). Este archivo cumple el requisito de registro en `prompts/` para ese intercambio.
+La salida de la asistencia de IA se materializó en el repositorio en **`docs/01-inventario-activos.md`**. Este archivo cumple el requisito de registro en `prompts/` para ese intercambio.

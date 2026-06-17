@@ -4,7 +4,7 @@
 |--------|--------|
 | **Fecha y hora** | 2026-06-16 16:15 (UTC-3) |
 | **Herramienta** | Cursor (asistente IA en el IDE) |
-| **Entregable vinculado** | `docs/02-arquitectura-trust-boundaries.md` (y actualización de `docs/00-indice-documentos.md`, `docs/01-inventario-activos.md` en trazabilidad) |
+| **Entregable vinculado** | `docs/02-arquitectura-trust-boundaries.md` (y actualización de `docs/01-inventario-activos.md` en trazabilidad) |
 
 ## Prompt exacto
 

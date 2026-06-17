@@ -26,7 +26,7 @@ Describir la arquitectura lógica del sistema y delimitar **trust boundaries** (
 | Modelos | Integración con LLM comerciales (API OpenAI / Anthropic); Servicio de inferencia con LLM open source en instalación local |
 | Procesos de negocio (lógicos) | Proceso de consulta RAG; Proceso de generación de borradores contractuales por agentes de IA; Proceso de auditoría automatizada de cumplimiento normativo local |
 
-Los flujos de datos detallados para diagramación están previstos en [`10-diagrama-flujo-datos.md`](10-diagrama-flujo-datos.md).
+Los flujos de datos para diagramación se documentarán en [`../diagrams/arquitectura.drawio`](../diagrams/arquitectura.drawio) y [`../diagrams/arquitectura.png`](../diagrams/arquitectura.png).
 
 ---
 
@@ -171,15 +171,14 @@ Cada frontera resume **dónde** cambia la confianza entre partes o zonas lógica
 | Documento | Relación |
 |-----------|----------|
 | [`01-inventario-activos.md`](01-inventario-activos.md) | Nombres y tipos de activos citados en cada TB. |
-| [`10-diagrama-flujo-datos.md`](10-diagrama-flujo-datos.md) | Los flujos entre procesos y almacenes deberán reflejar estas fronteras en el DFD. |
-| [`03-matriz-stride.md`](03-matriz-stride.md) | **TODO:** Modelado de amenazas posterior (no realizado en este documento). |
+| [`../diagrams/`](../diagrams/) | Los flujos entre procesos y almacenes deberán reflejar estas fronteras en el diagrama de arquitectura. |
+| [`03-analisis-stride.md`](03-analisis-stride.md) | Catálogo STRIDE revisado (63 IDs); ver apéndice de consolidaciones. |
 
 ---
 
 ## Trazabilidad
 
-- Índice: [`00-indice-documentos.md`](00-indice-documentos.md) (E02)
 - Inventario de activos: [`01-inventario-activos.md`](01-inventario-activos.md)
-- DFD: [`10-diagrama-flujo-datos.md`](10-diagrama-flujo-datos.md)
+- Diagramas: [`../diagrams/`](../diagrams/)
 - Memory bank: [`../prompts/00-memory-bank.md`](../prompts/00-memory-bank.md)
 - Registro de prompt (IA): [`../prompts/05-prompt-trust-boundaries.md`](../prompts/05-prompt-trust-boundaries.md)

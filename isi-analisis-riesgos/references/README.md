@@ -1,9 +1,16 @@
 # Carpeta `references/`
 
-Referencias bibliográficas, normativas y guías citadas en el trabajo del **Escenario 11**.
+Referencias bibliográficas, apuntes de clase y normativas citadas en el trabajo del **Escenario 11**.
 
-## Lista maestra
+## Materiales de clase
 
-El listado estructurado (con enlaces de consulta donde aplique) está en [`bibliografia.md`](bibliografia.md).
+| Archivo | Contenido |
+|---------|-----------|
+| [`STRIDE.md`](STRIDE.md) | Metodología STRIDE |
+| [`DREAD.md`](DREAD.md) | Priorización DREAD |
+| [`MITRE_ATTCK`](MITRE_ATTCK) | Marco MITRE ATT&CK |
+| [`analisis_amenazas.md`](analisis_amenazas.md) | Análisis de amenazas |
 
-No citar en el cuerpo del análisis fuentes que no estén respaldadas en los documentos finales.
+## Normativas
+
+Colocar PDFs descargados aquí (p. ej. `NIST-SP-800-30.pdf`). Ver [`bibliografia.md`](bibliografia.md).

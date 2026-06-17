@@ -2,13 +2,12 @@
 
 | Campo | Valor |
 |--------|--------|
-| **Fecha y hora** | 2026-06-15 16:30 (UTC-3) |
+| **Fecha y hora** | 2026-05-30 18:30 (UTC-3) |
 | **Herramienta** | Cursor (asistente IA en el IDE) |
-| **Entregable vinculado** | `README.md`, `prompts/00-memory-bank.md`, `docs/*`, `references/bibliografia.md`, `templates/plantilla-seccion.md`, índice `docs/00-indice-documentos.md` |
+| **Entregable vinculado** | `README.md`, `prompts/00-memory-bank.md`, `docs/*`, `references/bibliografia.md`, `templates/Plantilla_Analisis_Riesgos.md` |
 
 ## Prompt exacto
 
-```text
 # ACTUALIZACIÓN DE CONTEXTO DEL PROYECTO
 
 Ya existe una estructura inicial del repositorio creada previamente.

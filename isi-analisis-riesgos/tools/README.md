@@ -1,7 +1,12 @@
 # Carpeta `tools/`
 
-Scripts, notebooks o utilidades opcionales que apoyen el trabajo (por ejemplo, formateo de tablas o extracción de texto de fuentes permitidas).
+Artefactos de modelado y matrices de riesgo.
 
-**Estado:** sin herramientas obligatorias en la fase de preparación.
+## Archivos previstos
 
-TODO: Completar durante la fase de análisis — solo si la consigna o el método lo justifican.
+| Archivo | Uso |
+|---------|-----|
+| `threat-model.xml` | Exportado desde OWASP Threat Dragon / MS TMT |
+| `risk-matrix.xlsx` | Matriz de riesgos (si usa Excel) |
+
+**Estado:** TODO: Completar durante la fase de análisis.

@@ -12,6 +12,5 @@ TODO: Completar durante la fase de análisis.
 
 ## Trazabilidad
 
-- Índice: [`00-indice-documentos.md`](00-indice-documentos.md) (E06)
 - Priorización: [`04-priorizacion-dread.md`](04-priorizacion-dread.md)
-- Controles: [`08-controles-nist-iso.md`](08-controles-nist-iso.md)
+- Mapa ATT&CK: [`05-mapa-attack.md`](05-mapa-attack.md)

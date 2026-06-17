@@ -100,6 +100,5 @@ Los siguientes elementos **no** están nombrados literalmente en el escenario pe
 
 ## Trazabilidad
 
-- Índice: [`00-indice-documentos.md`](00-indice-documentos.md) (E01)
 - Arquitectura y trust boundaries: [`02-arquitectura-trust-boundaries.md`](02-arquitectura-trust-boundaries.md)
 - Memory bank: [`../prompts/00-memory-bank.md`](../prompts/00-memory-bank.md)

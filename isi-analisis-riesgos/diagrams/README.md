@@ -1,14 +1,15 @@
 # Carpeta `diagrams/`
 
-Diagramas que acompañen al análisis del **Escenario 11** (plataforma legal con IA generativa y RAG).
+Diagramas que acompañen al análisis del **Escenario 11**.
 
-## DFD (diagrama de flujo de datos)
+## Artefactos previstos
 
-Los artefactos gráficos del DFD se guardarán aquí (formato a definir con la consigna: p. ej. Draw.io, PNG, SVG).
+| Archivo | Uso |
+|---------|-----|
+| `arquitectura.drawio` | Diagrama editable de arquitectura y trust boundaries |
+| `arquitectura.png` | Exportación del diagrama de arquitectura |
+| `attack-flow.png` | Flujo de ataque (relacionado con `docs/05-mapa-attack.md`) |
 
-- Narrativa y referencias: [`../docs/10-diagrama-flujo-datos.md`](../docs/10-diagrama-flujo-datos.md)
-- Índice del trabajo: [`../docs/00-indice-documentos.md`](../docs/00-indice-documentos.md)
+**Estado:** TODO: Completar durante la fase de análisis.
 
-**Contenido de diagramas definitivos:** TODO: Completar durante la fase de análisis.
-
-No incluir en esta fase diagramas técnicos cerrados ni arquitecturas inventadas más allá de lo descrito en el escenario.
+Referencias: [`../docs/02-arquitectura-trust-boundaries.md`](../docs/02-arquitectura-trust-boundaries.md), [`../docs/05-mapa-attack.md`](../docs/05-mapa-attack.md).

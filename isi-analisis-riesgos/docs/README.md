@@ -2,13 +2,17 @@
 
 Documentación principal del trabajo de ISI para el **Escenario 11** (plataforma legal con IA generativa y RAG).
 
-## Índice y trazabilidad
+## Entregables
 
-El mapa de entregables y enlaces cruzados está en [`00-indice-documentos.md`](00-indice-documentos.md).
-
-## Esqueletos de entregables
-
-Los archivos `01-` a `10-` son plantillas con **TODO: Completar durante la fase de análisis.**; no contienen resultados de análisis en esta etapa.
+| Archivo | Contenido |
+|---------|-----------|
+| [`01-inventario-activos.md`](01-inventario-activos.md) | Inventario de activos |
+| [`02-arquitectura-trust-boundaries.md`](02-arquitectura-trust-boundaries.md) | Arquitectura y trust boundaries |
+| [`03-analisis-stride.md`](03-analisis-stride.md) | Análisis STRIDE |
+| [`04-priorizacion-dread.md`](04-priorizacion-dread.md) | Priorización DREAD |
+| [`05-mapa-attack.md`](05-mapa-attack.md) | Mapa MITRE ATT&CK |
+| [`06-plan-mitigacion.md`](06-plan-mitigacion.md) | Plan de mitigación |
+| [`07-riesgos-residuales.md`](07-riesgos-residuales.md) | Riesgos residuales |
 
 ## Política de IA
 

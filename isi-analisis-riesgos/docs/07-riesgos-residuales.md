@@ -12,5 +12,4 @@ TODO: Completar durante la fase de análisis.
 
 ## Trazabilidad
 
-- Índice: [`00-indice-documentos.md`](00-indice-documentos.md) (E07)
 - Plan de mitigación: [`06-plan-mitigacion.md`](06-plan-mitigacion.md)

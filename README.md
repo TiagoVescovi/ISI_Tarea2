@@ -48,7 +48,7 @@ Registro de prompts en [`prompts/`](prompts/).
 ## Estructura
 
 ```text
-isi-analisis-riesgos/
+ISI_Tarea2/
 ├── docs/                  # Análisis (01–07)
 ├── diagrams/              # PNG exportados desde draw.io
 ├── references/            # Material de clase

@@ -10,7 +10,7 @@
 
 ## Diagrama de arquitectura
 
-![Arquitectura](../diagrams/arquitectura.png)
+![Arquitectura](../diagrams/arquitectura.jpg)
 
 **Figura 1.** Arquitectura de referencia y límites de confianza.
 
